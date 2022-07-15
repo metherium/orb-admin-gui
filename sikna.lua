@@ -18,3 +18,4 @@ seksas:NewButton("kys", "kills u", function()
     game:GetService("Players").LocalPlayer.Character:Destroy()
 end)
 
+print("pusssy")
