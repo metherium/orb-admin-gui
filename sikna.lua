@@ -1,7 +1,7 @@
 -- made by metherium/SusyBobyTheBigOne (TBO)
 -- kavo ui lib on top
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/metherium/orb-admin-gui/master/ui%20lib.lua))()
 local Window = Library.CreateLib("TBO admin ui", "GrapeTheme")
 local Tab = Window:NewTab("shitty admin cmds")
 --shity admin cmd
